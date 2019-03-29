@@ -1,6 +1,9 @@
 WordsReminder
 ==========
 
+Test branch to see if using the Typescript 2.9 feature "import types" make sense in a react-native app.
+The result is no, the bundle size is the same in both case (1,225,247 bytes).
+
 Simple mobile application to save words in dictionaries, built with [react-native](https://facebook.github.io/react-native/) and [react-native-firebase](https://rnfirebase.io/).
 
 ## Demo
